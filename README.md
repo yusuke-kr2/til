@@ -1,4 +1,4 @@
-# til Today I Learned (2025.9.3〜)
+# TIL: Today I Learned (2025.9.3〜)
 
 このリポジトリ内で毎日の学習記録・活動記録を公開していく
 
